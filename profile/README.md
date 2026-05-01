@@ -15,7 +15,8 @@ A small portfolio of focused libraries for the in-browser steps of common scams 
 Sixty lines of JavaScript that prevent in-browser HTML edits, closing the doctored-bank-page step in refund scams. MIT-licensed.
                                                                                                                                                                                                                                                                                                                           
 ```sh
-npm install @scamfreezer/textfreezer                                                                                                                                                                                                                                                                   ```          
+npm install @scamfreezer/textfreezer
+```
                                                           
 ---                                                                                                                                                                                                                                                                                                                       
 Open source. MIT-licensed. Build with us.
